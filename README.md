@@ -3,3 +3,4 @@
 
 #### June, 2018
 - TensorFlow: A system for large-scale machine learning [[arXIv](https://arxiv.org/abs/1605.08695)][[official website](https://www.tensorflow.org/)]
+- FaceGANs: Stable Generative Adversarial Networks with High-Quality Images [[ICLR 2018 Workshop](https://openreview.net/forum?id=HJn_vKyPM)]
