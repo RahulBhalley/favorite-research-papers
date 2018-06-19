@@ -20,8 +20,15 @@ This sub-field of AI is concerned with wide (maybe) and deep (most of the time) 
 #### Style Transfer
 - A Neural Algorithm of Artistic Style [[arXiv](https://arxiv.org/abs/1508.06576)]
 
+#### Training Techniques
+- Learning representations by back-propagating errors [[Nature](https://www.nature.com/articles/323533a0)]
+- Dropout: A Simple Way to Prevent Neural Networks from Overfitting [[JMLR](http://jmlr.org/papers/v15/srivastava14a.html)]
+
 #### Transfer Learning
 - DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition [[arXiv](https://arxiv.org/abs/1310.1531)]
+
+#### Data Visualization
+- Visualizing Data using t-SNE [[JMLR](http://www.jmlr.org/papers/v9/vandermaaten08a.html)]
 
 #### White Papers
 - TensorFlow: A system for large-scale machine learning [[arXIv](https://arxiv.org/abs/1605.08695)][[official website](https://www.tensorflow.org/)]
