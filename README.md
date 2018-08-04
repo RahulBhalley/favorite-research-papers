@@ -10,6 +10,7 @@ This sub-field of AI is concerned with wide and deep neural networks based compu
 - Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1511.06434)]
 - Progressive Growing of GANs for Improved Quality, Stability, and Variation [[arXiv](https://arxiv.org/abs/1710.10196)][[code](https://github.com/rahulbhalley/Progressive-Growing-of-GANs)]
 - FaceGANs: Stable Generative Adversarial Networks with High-Quality Images [[ICLR 2018 Workshop](https://openreview.net/forum?id=HJn_vKyPM)]
+- C-RNN-GAN: Continuous recurrent neural networks with adversarial training [[arXiv](https://arxiv.org/abs/1611.09904)]
 
 #### Image Classification
 - ImageNet Classification with Deep Convolutional Neural Networks [[NIPS](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)][[code](https://github.com/rahulbhalley/AlexNet-TensorFlow)]
