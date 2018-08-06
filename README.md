@@ -12,6 +12,7 @@ This sub-field of AI is concerned with wide and deep neural networks based compu
 - FaceGANs: Stable Generative Adversarial Networks with High-Quality Images [[ICLR 2018 Workshop](https://openreview.net/forum?id=HJn_vKyPM)]
 - C-RNN-GAN: Continuous recurrent neural networks with adversarial training [[arXiv](https://arxiv.org/abs/1611.09904)]
 - Generative Adversarial Text to Image Synthesis [[arXiv](https://arxiv.org/abs/1605.05396)]
+- NIPS 2016 Tutorial: Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1701.00160)]
 
 #### Image Classification
 - ImageNet Classification with Deep Convolutional Neural Networks [[NIPS](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)][[code](https://github.com/rahulbhalley/AlexNet-TensorFlow)]
