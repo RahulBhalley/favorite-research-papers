@@ -1,5 +1,5 @@
 # Important ML Research Papers
-This is a curated list of my favorite AI papers 📝
+This is a curated list of my favorite Machine Learning papers 📝
 
 ## Deep Learning
 This sub-field of AI is concerned with wide and deep neural networks based computational approach to intelligence in machines with the use of large amounts of data. And below is list of my favorite deep learning papers.
@@ -15,6 +15,7 @@ This sub-field of AI is concerned with wide and deep neural networks based compu
 - NIPS 2016 Tutorial: Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1701.00160)] (2016)
 - Synthesizing Audio with Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1802.04208)] (2018)
 - Improved Techniques for Training GANs [[arXiv](https://arxiv.org/abs/1606.03498)] (2016)
+- Wasserstein GAN [[arXiv](https://arxiv.org/abs/1701.07875)] (2017)
 
 #### Image Classification
 - ImageNet Classification with Deep Convolutional Neural Networks [[NIPS](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)][[code](https://github.com/rahulbhalley/AlexNet-TensorFlow)] (2012)
