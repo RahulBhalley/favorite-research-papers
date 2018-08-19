@@ -16,6 +16,7 @@ This sub-field of AI is concerned with wide and deep neural networks based compu
 - Synthesizing Audio with Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1802.04208)] (2018)
 - Improved Techniques for Training GANs [[arXiv](https://arxiv.org/abs/1606.03498)] (2016)
 - Wasserstein GAN [[arXiv](https://arxiv.org/abs/1701.07875)] (2017)
+- Improved Training of Wasserstein GANs [[arXiv](https://arxiv.org/abs/1704.00028)] (2017)
 
 #### Image Classification
 - ImageNet Classification with Deep Convolutional Neural Networks [[NIPS](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)][[code](https://github.com/rahulbhalley/AlexNet-TensorFlow)] (2012)
