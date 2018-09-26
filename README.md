@@ -1,4 +1,4 @@
-# Important ML Research Papers
+# Favorite AI Research Papers
 This is a curated list of my favorite Machine Learning papers 📝
 
 ## Deep Learning
