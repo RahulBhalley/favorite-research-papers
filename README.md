@@ -1,4 +1,4 @@
-# Favorite AI Research Papers
+# Favorite AI Papers
 This is a curated list of my favorite Machine Learning papers 📝
 
 ## Deep Learning
