@@ -1,5 +1,5 @@
 # Favorite Research Papers
-This is a curated list of my favorite research papers 📝 from different fields of computer science related to Machine Intelligence.
+This is a curated list of my favorite research papers 📝 from different fields related to **Machine Intelligence**.
 
 ## Deep Learning
 This sub-field of AI is concerned with wide and deep neural networks based computational approach to intelligence in machines with the use of large amounts of data. And below is list of my favorite deep learning papers.
