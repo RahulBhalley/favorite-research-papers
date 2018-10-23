@@ -21,6 +21,9 @@ This sub-field of AI is concerned with wide and deep neural networks based compu
 #### Image Classification
 - ImageNet Classification with Deep Convolutional Neural Networks [[NIPS](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)][[code](https://github.com/rahulbhalley/AlexNet-TensorFlow)] (2012)
 
+#### Natural Language Processing
+- Quasi-Recurrent Neural Networks [[arXiv](https://arxiv.org/abs/1611.01576)] (2016)
+
 #### Meta Learning
 - DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition [[arXiv](https://arxiv.org/abs/1310.1531)] (2013)
 
