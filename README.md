@@ -13,10 +13,12 @@ This sub-field of AI is concerned with wide and deep neural networks based compu
 - C-RNN-GAN: Continuous recurrent neural networks with adversarial training [[arXiv](https://arxiv.org/abs/1611.09904)] (2016)
 - Generative Adversarial Text to Image Synthesis [[arXiv](https://arxiv.org/abs/1605.05396)] (2016)
 - NIPS 2016 Tutorial: Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1701.00160)] (2016)
-- Synthesizing Audio with Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1802.04208)] (2018)
+- Adversarial Audio Synthesis [[arXiv](https://arxiv.org/abs/1802.04208)] (2018)
 - Improved Techniques for Training GANs [[arXiv](https://arxiv.org/abs/1606.03498)] (2016)
 - Wasserstein GAN [[arXiv](https://arxiv.org/abs/1701.07875)] (2017)
 - Improved Training of Wasserstein GANs [[arXiv](https://arxiv.org/abs/1704.00028)] (2017)
+- Improving the Improved Training of Wasserstein GANs: A Consistency Term and Its Dual Effect [[arXiv](https://arxiv.org/abs/1803.01541)] (2018)
+- Training Generative Adversarial Networks Via Turing Test [[arXiv](https://arxiv.org/abs/1810.10948)] (2018)
 
 #### Image Classification
 - ImageNet Classification with Deep Convolutional Neural Networks [[NIPS](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)][[code](https://github.com/rahulbhalley/AlexNet-TensorFlow)] (2012)
@@ -24,10 +26,10 @@ This sub-field of AI is concerned with wide and deep neural networks based compu
 #### Natural Language Processing
 - Quasi-Recurrent Neural Networks [[arXiv](https://arxiv.org/abs/1611.01576)] (2016)
 
-#### Meta Learning
+#### Meta Learning / Learning to Learn
 - DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition [[arXiv](https://arxiv.org/abs/1310.1531)] (2013)
 
-#### Review Paper
+#### Reviews
 - Machine learning: Trends, perspectives, and prospects [[Science](http://science.sciencemag.org/content/349/6245/255)] (2015)
 - Deep learning [[Nature](https://www.nature.com/articles/nature14539)] (2015)
 
