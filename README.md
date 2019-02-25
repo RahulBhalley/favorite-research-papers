@@ -27,7 +27,7 @@ This sub-field of AI is concerned with wide and deep neural networks based compu
 
 #### Image-to-Image Translation
 
-- Artist Style Transfer Via Quadratic Potential [[arXiv]()] (2019)
+- Artist Style Transfer Via Quadratic Potential [arXiv] (2019)
 
 ### Image Classification
 
