@@ -6,6 +6,10 @@ This is a curated list of my favorite research papers 📝 from different fields
 
 This sub-field of AI is concerned with wide and deep neural networks based computational approach to intelligence in machines with the use of large amounts of data. And below is list of my favorite deep learning papers.
 
+### Audio
+
+- WaveNet: A Generative Model for Raw Audio [[arXiv](https://arxiv.org/abs/1609.03499)] (2016)
+
 ### Generative Modeling
 
 #### Generative Adversarial Networks
