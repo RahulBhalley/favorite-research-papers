@@ -2,11 +2,17 @@
 
 This is a curated list of my favorite research papers 📝 from different fields related to **Machine Intelligence**.
 
+Fields I explore in the search for *true* intelligence:
+
+- [Neural Networks](https://github.com/rahulbhalley/favorite-research-papers#neural-networks)
+- [Deep Reinforcement Learning](https://github.com/rahulbhalley/favorite-research-papers#deep-reinforcement-learning)
+- [Computational Neuroscience](https://github.com/rahulbhalley/favorite-research-papers#computational-neuroscience)
+
 <hr>
 
-## Deep Learning
+## Neural Networks
 
-This sub-field of AI is concerned with wide and deep neural networks based computational approach to intelligence in machines with the use of large amounts of data. And below is list of my favorite deep learning papers.
+This sub-field of AI is concerned with wide and deep neural networks based computational approach to intelligence in machines with the use of large amounts of data. And below is list of my favorite neural networks papers.
 
 ### Audio
 
@@ -81,3 +87,7 @@ This sub-field of AI is concerned with wide and deep neural networks based compu
 ### Reviews
 
 - Reinforcement Learning, Fast and Slow [[Trends in Cognitive Sciences](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0)][[My Description](https://github.com/rahulbhalley/favorite-research-papers/blob/master/reinforcement-learning-fast-and-slow.md)] (2019)
+
+<hr>
+
+## Computational Neuroscience
