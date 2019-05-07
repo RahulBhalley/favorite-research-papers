@@ -1,12 +1,16 @@
 # Favorite Research Papers
 
-This is a curated list of my favorite research papers 📝 from different fields related to **Machine Intelligence**.
+This is a curated list of my favorite research papers 📝 from different fields related to **Machine Intelligence**, **Quantum Computation**, and more.
 
 Fields I explore in the search for *true* intelligence:
 
 - [Neural Networks](https://github.com/rahulbhalley/favorite-research-papers#neural-networks)
 - [Deep Reinforcement Learning](https://github.com/rahulbhalley/favorite-research-papers#deep-reinforcement-learning)
 - [Computational Neuroscience](https://github.com/rahulbhalley/favorite-research-papers#computational-neuroscience)
+
+Computation-oriented fields I like to keep an eye on:
+
+-[Quantum Computation](https://github.com/rahulbhalley/favorite-research-papers#quantum-computation)
 
 <hr>
 
@@ -91,3 +95,7 @@ This sub-field of AI is concerned with wide and deep neural networks based compu
 <hr>
 
 ## Computational Neuroscience
+
+<hr>
+
+## Quantum Computation
