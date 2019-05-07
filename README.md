@@ -91,7 +91,7 @@ This sub-field of AI is concerned with wide and deep neural networks based compu
 
 ### Reviews
 
-- Reinforcement Learning, Fast and Slow [[Trends in Cognitive Sciences](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0)][[My Thoughts](https://github.com/rahulbhalley/favorite-research-papers/blob/master/reinforcement-learning-fast-and-slow.md)] (2019)
+- Reinforcement Learning, Fast and Slow [[Trends in Cognitive Sciences](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0)][[My Thoughts 💭](https://github.com/rahulbhalley/favorite-research-papers/blob/master/reinforcement-learning-fast-and-slow.md)] (2019)
 
 <hr>
 
