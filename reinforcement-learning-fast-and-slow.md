@@ -14,7 +14,7 @@ As an example, we learn to use a new smartphone quickly if we ever encountered u
 
 ## Episodic Meta Reinforcement Learning
 
-Later the paper draws a connection between episodic and meta reinforcement learning claiming that we both go with hand-in-hand they tend to leverage the powers of both learning system worlds (episodic memory and meta learning). Episodic Meta RL is made possible using sequencial neural networks such as recurrent neural networks.
+Later the paper draws a connection between episodic and meta reinforcement learning claiming that when both go with hand-in-hand they tend to leverage the powers of both learning system worlds (episodic memory and meta learning). Episodic Meta RL is made possible using sequencial neural networks such as recurrent neural networks.
 
 ## Implications for Psychology and Neuroscience
 
@@ -24,7 +24,7 @@ Finally the paper discusses how psychology and neuroscience can benefit from the
 
 I am new to reinforcement learning coming from neural networks research world. And I have seen Numenta Inc. working on decrypting the neocortex of brain which is mainly responsible for whatever the f*** we do. And since they are actually finding the true principles of intelligence I don't think Deep Reinforcement Learning is some that important field [from POV of true intelligence] from which computational neuroscience should get inspired from. But the inspiration should be the other way. 
 
-Just because the paper is from researchers from DeepMind and they've been working on Deep RL kind of since start & their paper will be given a lot of attention and value. I felt like they were trying to save Deep RL field from sinking and just to keep this field relevant (because people felt it requires lots of data and exponentially more time of reward learning than humans to learn a particular task) as DeepMind's main goal is Deep RL and they can't go irrelevant in this era or they'll have nothing to do if everybody finds out Deep RL is not the answer to human intelligence. 
+Just because the paper is from researchers from DeepMind and they've been working on Deep RL kind of since start their paper will be given a lot of attention and value. I felt like they were trying to save Deep RL field from sinking and just to keep this field relevant (because people felt it requires lots of data and exponentially more time of reward learning than humans to learn a particular task) as DeepMind's main goal is Deep RL and they can't go irrelevant in this era or they'll have nothing to do if everybody finds out Deep RL is not the answer to human intelligence. 
 
 BTW same thoughts goes for OpenAI which has now become ClosedAI. They are also trying to create publicity and keeping themselves relevant. They published a paper describing small GPT-2 model for realistic text generation from just headings and wrote the large model release can be "dangerous" like WTF didn't Ian Goodfellow described Generative Adversarial Nets to the world? And the same day they published a paper on Distill describing the need for AI safety engineer in this era. It definitely seemed to be planned.
 
