@@ -20,6 +20,7 @@ Later the paper draws a connection between episodic and meta reinforcement learn
 
 Finally the paper discusses how psychology and neuroscience can benefit from the research of reinforcement learning.
 
+<!-->
 ## My Thoughts
 
 I am new to reinforcement learning coming from neural networks research world. And I have seen Numenta Inc. working on decrypting the neocortex of brain which is mainly responsible for whatever the f*** we do. And since they are actually finding the true principles of intelligence I don't think Deep Reinforcement Learning is some that important field [from POV of true intelligence] from which computational neuroscience should get inspired from. But the inspiration should be the other way. 
@@ -29,3 +30,4 @@ Just because the paper is from researchers from DeepMind and they've been workin
 BTW same thoughts goes for OpenAI which has now become ClosedAI. They are also trying to create publicity and keeping themselves relevant. They published a paper describing small GPT-2 model for realistic text generation from just headings and wrote the large model release can be "dangerous" like WTF didn't Ian Goodfellow described Generative Adversarial Nets to the world? And the same day they published a paper on Distill describing the need for AI safety engineer in this era. It definitely seemed to be planned.
 
 P.S. These companies need to stop buzzing and focus on finding true principles underlying the intelligence. According to me Numenta Inc. is the only company truly focussing on finding true human intelligence on Earth.
+-->
