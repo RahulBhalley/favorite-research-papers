@@ -11,7 +11,6 @@ Fields I explore in the search for *true* intelligence:
 Computation-oriented fields I like to keep an eye on:
 
 - [Quantum Computation](https://github.com/rahulbhalley/favorite-research-papers#quantum-computation)
-
 - [Blockchain](https://github.com/rahulbhalley/favorite-research-papers#blockchain)
 
 <hr>
