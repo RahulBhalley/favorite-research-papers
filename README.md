@@ -12,6 +12,8 @@ Computation-oriented fields I like to keep an eye on:
 
 - [Quantum Computation](https://github.com/rahulbhalley/favorite-research-papers#quantum-computation)
 
+- [Blockchain](https://github.com/rahulbhalley/favorite-research-papers#blockchain)
+
 <hr>
 
 ## Neural Networks
@@ -99,3 +101,7 @@ This sub-field of AI is concerned with wide and deep neural networks based compu
 <hr>
 
 ## Quantum Computation
+
+<hr>
+
+## Blockchain
