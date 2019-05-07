@@ -1,6 +1,6 @@
 # Favorite Research Papers
 
-This is a curated list of my favorite research papers 📝 from different fields related to **Machine Intelligence**, **Quantum Computation**, and more.
+This is a curated list of my favorite research papers 📝 from different fields related to **Machine Intelligence**, **Quantum Computation**, and **Blockchain**.
 
 Fields I explore in the search for *true* intelligence:
 
