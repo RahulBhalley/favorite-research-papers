@@ -5,7 +5,7 @@ This is a curated list of my favorite research papers 📝 from different comput
 Fields I explore in the search for *true* intelligence:
 
 - [Neural Networks](https://github.com/rahulbhalley/favorite-research-papers#neural-networks)
-- [Deep Reinforcement Learning](https://github.com/rahulbhalley/favorite-research-papers#deep-reinforcement-learning)
+- [Neural Reinforcement Learning](https://github.com/rahulbhalley/favorite-research-papers#neural-reinforcement-learning)
 - [Computational Neuroscience](https://github.com/rahulbhalley/favorite-research-papers#computational-neuroscience)
 
 Computation-oriented fields I like to keep an eye on:
@@ -87,7 +87,7 @@ This sub-field of AI is concerned with wide and deep neural networks based compu
 
 <hr>
 
-## Deep Reinforcement Learning
+## Neural Reinforcement Learning
 
 ### Reviews
 
