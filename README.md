@@ -50,7 +50,7 @@ This sub-field of AI is concerned with wide and deep neural networks based compu
 
 - Quasi-Recurrent Neural Networks [[arXiv](https://arxiv.org/abs/1611.01576)] (2016)
 
-### Meta Learning / Transfer Learning / Domain Adaptation
+### Meta Learning / Transfer Learning / Learning to Learn / Domain Adaptation
 
 - DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition [[arXiv](https://arxiv.org/abs/1310.1531)] (2013)
 
