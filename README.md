@@ -68,6 +68,13 @@ This sub-field of AI is concerned with wide and deep neural networks based compu
 
 - Visualizing Data using t-SNE [[JMLR](http://www.jmlr.org/papers/v9/vandermaaten08a.html)] (2008)
 
+
+## Deep Reinforcement Learning
+
+### Reviews
+
+- Reinforcement Learning, Fast and Slow [[Trends in Cognitive Sciences](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0)]
+
 ### White Papers
 
 - TensorFlow: A system for large-scale machine learning [[arXIv](https://arxiv.org/abs/1605.08695)][[official website](https://www.tensorflow.org/)] (2016)
