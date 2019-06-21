@@ -42,6 +42,7 @@ This sub-field of AI is concerned with wide and deep neural networks based compu
 - Improving the Improved Training of Wasserstein GANs: A Consistency Term and Its Dual Effect [[arXiv](https://arxiv.org/abs/1803.01541)] (2018)
 - Training Generative Adversarial Networks Via Turing Test [[arXiv](https://arxiv.org/abs/1810.10948)] (2018)
 - GAN-QP: A Novel GAN Framework without Gradient Vanishing and Lipschitz Constraint [[arXiv](https://arxiv.org/abs/1811.07296)] (2018)
+- A Large-Scale Study on Regularization and Normalization in GANs [[arXiV](https://arxiv.org/abs/1807.04720)] [2018]
 
 #### Image-to-Image Translation
 
