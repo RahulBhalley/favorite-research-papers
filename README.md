@@ -23,6 +23,10 @@ This sub-field of AI is concerned with wide and deep neural networks based compu
 
 - WaveNet: A Generative Model for Raw Audio [[arXiv](https://arxiv.org/abs/1609.03499)] (2016)
 
+### Frameworks
+
+- Automatic differentiation in PyTorch [[OpenReview](https://openreview.net/pdf?id=BJJsrmfCZ)] (2017)
+
 ### Generative Modeling
 
 #### Generative Adversarial Networks
