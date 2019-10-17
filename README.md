@@ -26,6 +26,7 @@ This sub-field of AI is concerned with wide and deep neural networks based compu
 ### Frameworks
 
 - Automatic differentiation in PyTorch [[OpenReview](https://openreview.net/pdf?id=BJJsrmfCZ)] (2017)
+- TensorFlow: A system for large-scale machine learning [[arXIv](https://arxiv.org/abs/1605.08695)][[official website](https://www.tensorflow.org/)] (2016)
 
 ### Generative Modeling
 
@@ -85,10 +86,6 @@ This sub-field of AI is concerned with wide and deep neural networks based compu
 ### Data Visualization
 
 - Visualizing Data using t-SNE [[JMLR](http://www.jmlr.org/papers/v9/vandermaaten08a.html)] (2008)
-
-### White Papers
-
-- TensorFlow: A system for large-scale machine learning [[arXIv](https://arxiv.org/abs/1605.08695)][[official website](https://www.tensorflow.org/)] (2016)
 
 <hr>
 
