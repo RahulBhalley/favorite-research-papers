@@ -25,7 +25,7 @@ This sub-field of AI is concerned with wide and deep neural networks based compu
 
 ### Frameworks
 
-- Automatic differentiation in PyTorch [[OpenReview](https://openreview.net/pdf?id=BJJsrmfCZ)][[official website](https://www.pytorch.org)] (2017)
+- Automatic differentiation in PyTorch [[OpenReview](https://openreview.net/pdf?id=BJJsrmfCZ)][[official website](https://pytorch.org)] (2017)
 - TensorFlow: A system for large-scale machine learning [[arXIv](https://arxiv.org/abs/1605.08695)][[official website](https://www.tensorflow.org/)] (2016)
 
 ### Generative Modeling
